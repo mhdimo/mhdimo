@@ -1,17 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">CS student and exchange @ BTU Cottbus</h2>
+
 [![Mihal GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdimo)](https://github.com/mhdimo/github-readme-stats)
 
-<!--
-**mhdimo/mhdimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Arius80-he, HE open source keyboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: Mathematical Methods in Artificial Intelligence, calculus, firmware development
+
+- 📫 How to reach me (Discord): **akahito.**
+
+### Languages and tools:
+[![My Skills]([https://skillicons.dev/icons?i=bash,java,py,linux](https://skillicons.dev/icons?i=c,cpp,go,py,linux,git,vscode,docker))](https://skillicons.dev)
