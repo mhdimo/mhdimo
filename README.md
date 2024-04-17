@@ -11,4 +11,5 @@
 - 📫 How to reach me (Discord): **akahito.**
 
 ### Languages and tools:
-[![My Skills]([https://skillicons.dev/icons?i=bash,java,py,linux](https://skillicons.dev/icons?i=c,cpp,go,py,linux,git,vscode,docker))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,linux,git,vscode,docker)](https://skillicons.dev)
+
