@@ -3,13 +3,12 @@
 
 [![Mihal GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdimo)](https://github.com/mhdimo/github-readme-stats)
 
+- 🔭 Currently working on: Arius80-HE
+  
+- 🌱 Currently learning: Mathematical Methods in Artificial Intelligence, Mathematical Analysis, Firmware development in Rust.
 
-- 🔭 Currently working on: Arius80-he, HE open source keyboard
-
-- 🌱 Currently learning: Mathematical Methods in Artificial Intelligence, calculus, firmware development
-
-- 📫 How to reach me (Discord): **akahito.**
+- 📫 How to reach me (Discord): `**akahito.**`
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,py,java,linux,vscode,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,py,linux,vscode,git,docker)](https://skillicons.dev)
 
