@@ -7,7 +7,7 @@
   
 - 🌱 Currently learning: Mathematical Methods in Artificial Intelligence, Mathematical Analysis, Firmware development in Rust.
 
-- 📫 How to reach me (Discord): `**akahito.**`
+- 📫 How to reach me (Discord): `akahito.`
 
 ### Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,py,linux,vscode,git,docker)](https://skillicons.dev)
