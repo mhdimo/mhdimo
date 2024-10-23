@@ -8,7 +8,9 @@
 - 🌱 Currently learning: 
   - Firmware development in Rust
   - Mathematical Analysis
-  - Data mining
+  - Software engineering Design Patterns
+  - Algorithms & Data structures
+  - ||(Relearning)|| Database (SQL)
 
 - 🌱 Currently improving:
   - PCB design skills
