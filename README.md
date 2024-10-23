@@ -10,7 +10,7 @@
   - Mathematical Analysis
   - Software engineering Design Patterns
   - Algorithms & Data structures
-  - ||(Relearning)|| Database (SQL)
+  - `(Relearning)` Database (SQL)
 
 - 🌱 Currently improving:
   - PCB design skills
