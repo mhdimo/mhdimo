@@ -3,7 +3,7 @@
 
 [![Mihal GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdimo)](https://github.com/mhdimo/github-readme-stats)
 
-- 🔭 Currently working on: Arius80-HE, AriusFW, (upcoming) Arius60-HE
+- 🔭 Currently working on: Zellia! A hall effect keyboard powered by ZelliaFW in Rust :) coming also with other layouts
   
 - 🌱 Currently learning: 
   - Firmware development in Rust
