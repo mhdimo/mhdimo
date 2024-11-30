@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-[![Mihal GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdimo)](https://github.com/mhdimo/github-readme-stats)
+[![Mihal GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdimo&show_icons=true&theme=transparent)](https://github.com/mhdimo/github-readme-stats)
 
 - 🔭 Currently working on: Zellia! A hall effect keyboard powered by ZelliaFW in Rust :) coming also with other layouts
   
