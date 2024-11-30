@@ -1,24 +1,19 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">CS student</h2>
 
 [![Mihal GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdimo)](https://github.com/mhdimo/github-readme-stats)
 
 - 🔭 Currently working on: Zellia! A hall effect keyboard powered by ZelliaFW in Rust :) coming also with other layouts
   
 - 🌱 Currently learning: 
-  - Firmware development in Rust
-  - Mathematical Analysis
-  - Software engineering Design Patterns
-  - Algorithms & Data structures
-  - `(Relearning)` Database (SQL)
-
-- 🌱 Currently improving:
-  - PCB design skills
+  - Chinese 中文
+  - Mathematical algorithms & analysis
+  - Software design patterns
+  - Operating systems
+  - Network Programming
 
 - 📫 How to reach me:
-  - (Discord): `akahito.`
   - (Email): `mihal@kakao.com`
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,py,linux,vscode,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,py,js,linux,vscode,git,docker)](https://skillicons.dev)
 
