@@ -8,8 +8,6 @@
 - 🌱 Currently learning: 
   - Chinese 中文 (Current level: HSK1).
   - Mathematical algorithms & analysis.
-  - Software design patterns.
-  - Digital forensics.
   - Operating systems.
 
 - 📫 How to reach me:
