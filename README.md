@@ -9,10 +9,16 @@
   - Chinese 中文 (Current level: HSK1).
   - Mathematical algorithms & analysis.
   - Operating systems.
+  - SQL Database/Trigger/Relational Algebra
+  - Physics
+
+- 🌱 Currently writing:
+  - Bachelor thesis "Zellia, A Hall Effect keyboard"
+  - Research project on system architecture, scalability, cloud infrastructure, and virtualization.
 
 - 📫 How to reach me:
   - (Email): `mihal@zellia.cn`
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,go,py,js,linux,vscode,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,rust,py,html,css,js,linux,vscode,git,gitlab,docker)](https://skillicons.dev)
 
