@@ -3,7 +3,7 @@
 [![Mihal GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdimo&show_icons=true&theme=transparent)](https://github.com/mhdimo/github-readme-stats)
 
 - 🔭 Currently working on: Zellia80-HE. A hall effect keyboard running a custom Rust firmware. Coming also with other layouts (planned 60%, 65%, 75%)
-  - also woking on the front end side of Zellia Control. tailoring for a better UI/UX experience.
+  <!--- also woking on the front end side of Zellia Control. tailoring for a better UI/UX experience.-->
 
 - 🌱 Currently learning: 
   - Chinese 中文 (Current level: HSK1).
