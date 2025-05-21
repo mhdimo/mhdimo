@@ -20,5 +20,5 @@
   - (Email): `mihal@zellia.cn`
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,rust,py,html,css,js,linux,vscode,git,gitlab,docker)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,php,processing,html,css,js,svelte,tauri,cmake,maven,anaconda,latex,md,linux,bash,powershell,vscode,git,github,gitlab,docker,vercel,cloudflare,kafka,elasticsearch,mysql)](https://skillicons.dev)
+ 
