@@ -44,7 +44,7 @@
 [![Skills](https://skillicons.dev/icons?i=vscode,latex,md,git,github,gitlab&theme=light)](https://skillicons.dev)
 
 #### OS & Shells
-[![Skills](https://skillicons.dev/icons?i=linux,apple,windows,macos,bash,powershell&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,apple,windows,bsd,bash,powershell&theme=light)](https://skillicons.dev)
 
 #### Cloud & Infra
 
