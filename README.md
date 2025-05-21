@@ -55,4 +55,4 @@
 ### 📂 Notable Repositories
 
 - [`zellia80-he`](https://github.com/mhdimo/zellia80-he) – Hardware design for a TKL Hall-effect mechanical keyboard.
-- [`zellia-control`](https://github.com/mhdimo/zellia-control) – Software for keybopard configuration.
+- [`zellia-control`](https://github.com/mhdimo/zellia-control) – Software for keyboard configuration.
