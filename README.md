@@ -1,9 +1,19 @@
 <h1 align="center">Mihal Dimo</h1>
 <h3 align="center">Embedded Systems & Software Engineering · Rust · C/C++ </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdimo&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdimo&layout=compact&theme=transparent" />
-</p>
+
+<table align="center">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=mhdimo&show_icons=true&amp;&hide_border=true&theme=transparent"
+                alt='profile stats'>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdimo&amp;layout=compact&amp;&hide_border=true&theme=transparent"
+                alt='languages stats'>
+        </td>
+    </tr>
+</table>
+
 
 ### 🔧 Projects
 
