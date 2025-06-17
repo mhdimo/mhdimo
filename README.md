@@ -18,7 +18,7 @@
 ### 🔧 Projects
 
 - **Zellia80-HE** – A Hall-effect keyboard powered by a custom Rust firmware. Supporting multiple layouts (60%, 65%, 75%).  
-- **Zellia Control** (UI planned) – Software for keyboard configuration.
+- **Zellia Control** (Backend) – Software for keyboard configuration.
 
 ### 📚 Research & Development
 
@@ -64,4 +64,4 @@
 ### 📂 Notable Repositories
 
 - [`zellia80-he`](https://github.com/mhdimo/zellia80-he) – Hardware design for a TKL Hall-effect mechanical keyboard.
-- [`zellia-control`](https://github.com/mhdimo/zellia-control) – Software for keyboard configuration.
+- [`zellia-control`](https://github.com/Zellia-Keyboards/zellia) – Software for keyboard configuration.
