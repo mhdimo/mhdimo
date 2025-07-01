@@ -23,7 +23,6 @@
 ### 📚 Research & Development
 
 - Writing bachelor's thesis: **"Zellia – A Hall Effect Keyboard"**
-- Researching: virtualization, cloud infrastructure.
 - Learning:
   - Chinese (current level: HSK1).
   - Mathematical analysis & algorithms.
