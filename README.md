@@ -41,7 +41,7 @@
 
 #### Languages
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,php,processing,html,css,js,svelte,tauri&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,php,processing,html,css,ts,svelte,tauri&theme=light)](https://skillicons.dev)
 
 #### Build & Package
 
