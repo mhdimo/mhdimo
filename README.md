@@ -34,7 +34,7 @@
 ---
 
 #### Language & frameworks
-[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,java,r,py,php,processing,html,css,js,ts,svelte,tauri,fastapi&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,java,r,py,php,processing,html,css,js,ts,svelte,tauri&theme=dark)](https://skillicons.dev)
 
 #### Build & Package
 
