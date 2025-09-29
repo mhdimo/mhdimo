@@ -34,11 +34,11 @@
 ---
 
 #### Languages
-[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,php,processing,html,css,ts,svelte,tauri&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,php,processing,html,css,js,ts,svelte,tauri&theme=light)](https://skillicons.dev)
 
 #### Build & Package
 
-[![Skills](https://skillicons.dev/icons?i=cmake,maven,anaconda&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cmake,maven,anaconda,gradle,bun,npm,yarn,pnpm&theme=light)](https://skillicons.dev)
 
 #### Tools & Editors
 
