@@ -33,20 +33,20 @@
  Contact: @ mihal@zellia.cn
 ---
 
-#### Languages
-[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,php,processing,html,css,js,ts,svelte,tauri&theme=light)](https://skillicons.dev)
+#### Language & frameworks
+[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,java,r,py,php,processing,html,css,js,ts,svelte,tauri,fastapi&theme=dark)](https://skillicons.dev)
 
 #### Build & Package
 
-[![Skills](https://skillicons.dev/icons?i=cmake,maven,anaconda,gradle,bun,npm,yarn,pnpm&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cmake,maven,anaconda,gradle,bun,npm,yarn,pnpm&theme=dark)](https://skillicons.dev)
 
 #### Tools & Editors
 
-[![Skills](https://skillicons.dev/icons?i=vscode,latex,md,git,github,gitlab&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,latex,md,git,github,gitlab&theme=dark)](https://skillicons.dev)
 
 #### OS & Shells
-[![Skills](https://skillicons.dev/icons?i=linux,apple,windows,bsd,bash,powershell&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,apple,windows,bsd,bash,powershell&theme=dark)](https://skillicons.dev)
 
 #### Cloud & Infra
 
-[![Skills](https://skillicons.dev/icons?i=docker,vercel,cloudflare,kafka,elasticsearch,mysql&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,vercel,cloudflare,kafka,elasticsearch,mysql&theme=dark)](https://skillicons.dev)
