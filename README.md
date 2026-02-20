@@ -15,7 +15,7 @@
 
 ### Projects
 
-- **Zellia80-HE** – A Hall-effect keyboard powered by a custom Rust firmware. Supporting multiple layouts (60%, 65%, 75%).  
+- **Zellia80-HE** – A Hall-effect keyboard powered by a custom firmware. Supporting multiple layouts (60%, 65%, 75%).  
 - **Zellia Control** (Backend) – Software for keyboard configuration.
 
 ### Research & Development
