@@ -49,4 +49,4 @@
 
 #### Cloud & Infra
 
-[![Skills](https://skillicons.dev/icons?i=docker,vercel,cloudflare,kafka,elasticsearch,mysql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,kafka,elasticsearch,mysql&theme=dark)](https://skillicons.dev)
