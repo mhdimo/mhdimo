@@ -23,12 +23,8 @@
 - Preparing to Release Zellia60 Starlight, A open-source Hall Effect keyboard
 - Learning:
   - Chinese (current level: HSK1).
-  - Mathematical analysis & algorithms.
-  - Operating systems & parallel programming.
-  - Physics.
-  - Calculus 2.
-  - Statistics & probability.
-  - Computer Networks & Network programming.
+  - MCU/FPGA clustering for LLM inference:
+    - studying distributed inference architectures, model/tensor parallelism, and low-latency pipeline design.
   
  Contact: @ mihal@zellia.cn
 ---
