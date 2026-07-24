@@ -11,24 +11,10 @@
         </td>
     </tr>
 </table>
-
-
-### Projects
-
-- **Zellia80-HE** – A Hall-effect keyboard powered by a custom firmware. Supporting multiple layouts (60%, 65%, 75%).  
-- **Zellia Control** (Backend) – Software for keyboard configuration.
-
-### Research & Development
-
-- Preparing to Release Zellia60 Starlight, A open-source Hall Effect keyboard
-- Learning:
-  - Chinese (current level: HSK1).
-  - MCU/FPGA clustering for LLM inference:
-    - studying distributed inference architectures, model/tensor parallelism, and low-latency pipeline design.
-  
  Contact: @ mihal@zellia.cn
----
 
+---
+<!--
 #### Language & frameworks
 [![Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,java,r,py,php,processing,html,css,js,ts,svelte,tauri&theme=dark)](https://skillicons.dev)
 
@@ -46,3 +32,4 @@
 #### Cloud & Infra
 
 [![Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,kafka,elasticsearch,mysql&theme=dark)](https://skillicons.dev)
+-->
