@@ -2,7 +2,7 @@
 <table align="center">
     <tr>
         <td>
-            <img src="https://github-stats-extended.vercel.app/api?username=mhdimo&show_icons=true&amp;&hide_border=true&theme=transparent"
+            <img src="https://github-stats-extended.vercel.app/api?username=mhdimo&custom_title=Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
                 alt='profile stats'>
         </td>
         <td>
