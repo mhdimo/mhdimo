@@ -12,24 +12,6 @@
     </tr>
 </table>
 
-Contact: @ mihal@zellia.cn
+Contact: mihal@kakao.com
 
-<!--
-#### Language & frameworks
-[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,java,r,py,php,processing,html,css,js,ts,svelte,tauri&theme=dark)](https://skillicons.dev)
-
-#### Build & Package
-
-[![Skills](https://skillicons.dev/icons?i=cmake,maven,anaconda,gradle,bun,npm,yarn,pnpm&theme=dark)](https://skillicons.dev)
-
-#### Tools & Editors
-
-[![Skills](https://skillicons.dev/icons?i=vscode,latex,md,git,github,gitlab&theme=dark)](https://skillicons.dev)
-
-#### OS & Shells
-[![Skills](https://skillicons.dev/icons?i=linux,apple,windows,bsd,bash,powershell&theme=dark)](https://skillicons.dev)
-
-#### Cloud & Infra
-
-[![Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel,kafka,elasticsearch,mysql&theme=dark)](https://skillicons.dev)
--->
+Looking for new opportunities as a software engineer.
